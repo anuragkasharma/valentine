@@ -20,4 +20,5 @@ A romantic Valentine's Day website with interactive elements.
 ## Local Testing
 Simply open `index.html` in your browser.
 
-Made with 💖 for Ishu
+
+
